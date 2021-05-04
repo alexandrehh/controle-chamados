@@ -1,0 +1,34 @@
+.saveItem{
+    text-align: center;
+    margin-top: 30px;
+}
+
+.selectItem {
+    padding: 3px 0.3%;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+.textItem {
+    padding: 3px
+}
+
+.title {
+    font-weight: bold;
+}
+
+.groupSelectItem {
+    margin-top: 5px;
+}
+
+.buttonSubmit {
+    margin-top: 20px;
+    padding: 10px 20px;
+    border-radius: 5px !important;
+    border: 1px solid black;
+    background-color: black;
+    color: white;
+    cursor: pointer;
+}
