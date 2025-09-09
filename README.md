@@ -1,4 +1,4 @@
-# 📧 Controle de Chamados
+# :registered: Controle de Chamados
 
 [![Java](https://img.shields.io/badge/Java-11+-orange?logo=openjdk)](https://openjdk.org/)
 [![Spring Boot](https://img.shields.io/badge/Spring_Boot-2.7.13-green?logo=spring)](https://spring.io/projects/spring-boot)
