@@ -3,7 +3,7 @@
 [![Java](https://img.shields.io/badge/Java-11+-orange?logo=openjdk)](https://openjdk.org/)
 [![Spring Boot](https://img.shields.io/badge/Spring_Boot-2.7.13-green?logo=spring)](https://spring.io/projects/spring-boot)
 [![MongoDB](https://img.shields.io/badge/MongoDB-4.0-blue?logo=mongodb)](https://www.mongodb.com/)
-[![ReactJS](https://img.shields.io/badge/React-yellow?logo=react&logo=react)](https://react.dev/)
+[![ReactJS](https://img.shields.io/badge/React-17.0.2-yellow?logo=react&logo=react)](https://react.dev/)
 
 ## 📋 Índice
 
